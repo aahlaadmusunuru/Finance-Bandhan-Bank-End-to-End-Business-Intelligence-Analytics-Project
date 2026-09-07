@@ -30,3 +30,16 @@ The solution also uses **Power BI reports and dashboards** to analyze **loan per
 | **Analytics** | **DAX** | Measures, KPIs, and business calculations |
 | **Visualization** | **Power BI** | Interactive dashboards and reporting |
 | **Automation** | **SQL Server Agent** | ETL scheduling and automation |
+
+
+## 🗄️ Database Design — OLTP
+
+The project starts with a **normalized OLTP relational database** designed to manage day-to-day banking operations. The database contains entities such as **Customers, Groups, Branches, Loans, Loan Types, Payments, Insurance, and Employees**.
+
+### 📌 OLTP Entity Relationship Diagram
+
+![Bandhan Bank OLTP ERD](OLTP_ERD.png)
+
+The OLTP database maintains relationships between customers, groups, branches, loans, payments, loan types, insurance, and employees using **Primary Keys (PKs)** and **Foreign Keys (FKs)**.
+
+---
