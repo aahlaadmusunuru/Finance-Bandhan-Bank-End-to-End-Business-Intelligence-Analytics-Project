@@ -1,21 +1,15 @@
 # 🏦 Finance-Bandhan Bank — End-to-End Business Intelligence & Analytics Project
 ## **About Bandhan Bank Project**
 
-- **Established:** 2001, with a focus on **financial inclusion and women’s empowerment**.
+## 🏦 About Bandhan Bank Project
 
-- **Core Business:** Provides **microfinance services** to underserved communities, particularly through **group-based lending**.
+Bandhan began in **2001** with a focus on **financial inclusion** and **women’s empowerment**, providing **microfinance services** to underserved communities through a **group-based lending model**. In this model, customers form groups and individual members receive loans based on their requirements, with the group supporting **timely repayment**.
 
-- **Group Lending:** Customers form groups, and individual members receive loans based on their requirements.
+The project covers **Weekly Loans** and **Monthly Loans**, where customers make regular **EMI repayments**, including applicable interest, based on the **loan duration**. The objective of the project is to design a structured **database and data model** to manage **customers, groups, loans, loan types, and payments**.
 
-- **Loan Types:** The project covers **Weekly Loans** and **Monthly Loans**.
+The solution also uses **Power BI reports and dashboards** to analyze **loan performance, repayment trends, customer behavior, and business insights**, helping business and operations teams make **data-driven decisions**.
 
-- **Repayment:** Customers make regular **EMI repayments**, including applicable interest, according to the loan duration.
-
-- **Group Responsibility:** Group members support each other in ensuring timely repayment.
-
-- **Project Objective:** Design a structured **database and data model** to manage customers, groups, loan details, loan types, and payments.
-
-- **Analytics Objective:** Use the data to build **Power BI reports and dashboards** for loan performance, repayment tracking, customer analysis, and business insights.
+## 🛠️ Tech Stack
 🛠️ Tech Stack
 ## 🎯 Project Objectives
 
