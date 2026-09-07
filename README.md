@@ -38,7 +38,7 @@ The project starts with a **normalized OLTP relational database** designed to ma
 
 ### 📌 OLTP Entity Relationship Diagram
 
-![Bandhan Bank OLTP ERD](OLTP_ERD.png)
+![Bandhan Bank OLTP ERD](images/OLTP_ERD.png)
 
 The OLTP database maintains relationships between customers, groups, branches, loans, payments, loan types, insurance, and employees using **Primary Keys (PKs)** and **Foreign Keys (FKs)**.
 
