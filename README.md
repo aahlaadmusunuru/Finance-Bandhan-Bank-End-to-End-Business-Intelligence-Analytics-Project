@@ -9,8 +9,6 @@ The project covers **Weekly Loans** and **Monthly Loans**, where customers make 
 
 The solution also uses **Power BI reports and dashboards** to analyze **loan performance, repayment trends, customer behavior, and business insights**, helping business and operations teams make **data-driven decisions**.
 
-## 🛠️ Tech Stack
-🛠️ Tech Stack
 ## 🎯 Project Objectives
 
 - Build an **end-to-end Business Intelligence solution** using SQL Server, SSIS, and Power BI.
@@ -20,3 +18,16 @@ The solution also uses **Power BI reports and dashboards** to analyze **loan per
 - Track **delinquency, repayment efficiency, and borrower churn/risk patterns**.
 - Develop interactive **Power BI dashboards and KPIs** to provide actionable insights for business and operations teams.
 - Automate **ETL processes and data refreshes** to deliver reliable and timely reporting.
+
+## 🛠️ Tech Stack
+
+| **Category** | **Technology** | **Purpose** |
+| ------------ | -------------- | ----------- |
+| **Database** | **SQL Server (T-SQL)** | Data extraction, transformation, and analysis |
+| **ETL** | **SSIS** | Data integration, ETL workflows, and data loading |
+| **Data Transformation** | **Power Query (M)** | Data cleaning and transformation |
+| **Data Modeling** | **Star Schema** | Dimensional data warehouse modeling |
+| **Analytics** | **DAX** | Measures, KPIs, and business calculations |
+| **Visualization** | **Power BI** | Interactive dashboards and reporting |
+| **Automation** | **SQL Server Agent** | ETL scheduling and automation |
+| **Data Sources** | **Excel / CSV** | Source data integration |
