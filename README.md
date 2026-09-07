@@ -16,3 +16,13 @@
 - **Project Objective:** Design a structured **database and data model** to manage customers, groups, loan details, loan types, and payments.
 
 - **Analytics Objective:** Use the data to build **Power BI reports and dashboards** for loan performance, repayment tracking, customer analysis, and business insights.
+🛠️ Tech Stack
+## 🎯 Project Objectives
+
+- Build an **end-to-end Business Intelligence solution** using SQL Server, SSIS, and Power BI.
+- Design a structured **data warehouse and star schema** to support efficient reporting and analytics.
+- Analyze **loan distribution, customer behavior, repayment patterns, EMI performance, and loan portfolio trends**.
+- Identify **high-performing and under-performing branches and regions** to support operational decision-making.
+- Track **delinquency, repayment efficiency, and borrower churn/risk patterns**.
+- Develop interactive **Power BI dashboards and KPIs** to provide actionable insights for business and operations teams.
+- Automate **ETL processes and data refreshes** to deliver reliable and timely reporting.
