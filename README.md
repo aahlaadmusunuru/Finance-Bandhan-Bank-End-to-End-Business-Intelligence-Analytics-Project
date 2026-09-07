@@ -30,4 +30,3 @@ The solution also uses **Power BI reports and dashboards** to analyze **loan per
 | **Analytics** | **DAX** | Measures, KPIs, and business calculations |
 | **Visualization** | **Power BI** | Interactive dashboards and reporting |
 | **Automation** | **SQL Server Agent** | ETL scheduling and automation |
-| **Data Sources** | **Excel / CSV** | Source data integration |
